@@ -1,17 +1,17 @@
 [
   {
     "title": "TMPRA Launcher v1.2 Released",
-    "body": "• Improved update system\n• New startup animation\n• Better error handling for downloads",
+    "body": "Improved update system\n New startup animation\n Better error handling for downloads",
     "image": "https://raw.githubusercontent.com/N3F3X/TMPRA-Resources-Repository/main/Images/support_icon.png"
   },
   {
     "title": "TMPRA Application Patch 1.1.5",
-    "body": "• Major UI overhaul\n• Performance improvements\n• Reduced memory usage by 40%",
+    "body": "Major UI overhaul\n Performance improvements\n Reduced memory usage by 40%",
     "image": "https://raw.githubusercontent.com/N3F3X/TMPRA-Resources-Repository/main/Images/app_update.png"
   },
   {
     "title": "New Feature: Integrated Troubleshooting",
-    "body": "• Automatic logs collection\n• Quick repair option\n• Easier Discord support access",
+    "body": "Automatic logs collection\n Quick repair option\n Easier Discord support access",
     "image": "https://raw.githubusercontent.com/N3F3X/TMPRA-Resources-Repository/main/Images/support_icon.png"
   }
 ]
